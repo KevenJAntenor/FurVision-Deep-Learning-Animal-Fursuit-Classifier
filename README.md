@@ -1,6 +1,6 @@
 # 🧠 FurVision: Deep Learning Animal & Fursuit Classifier
 
-## Python TensorFlow License
+## 🐍📜🤖 Python TensorFlow License
 
 A custom-built Convolutional Neural Network (CNN) that pushes the boundaries of computer vision by accurately distinguishing between real animals and people in fursuits, while also identifying animal species. Built from scratch without relying on pre-trained models, this project demonstrates advanced deep learning techniques in image classification.
 
